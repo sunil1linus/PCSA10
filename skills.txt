@@ -1,0 +1,66 @@
+We have matched your resume against the job title, Test Engineer, 
+and the following skills: Testing Test Engineering Test Automation Test Planning Manual Testing 
+Regression Testing Engineering 
+Agile Methodologies System Testing 
+ Jira Functional Testing Test Cases 
+Agile Testing Selenium Selenium WebDriver Manufacturing Cucumber
+ Scrum Semiconductors Debugging Failure 
+Language) Linux Java Performance Testing SQL Test Management Project Management Microsoft
+ Access API Testing MATLAB Automotive CANoe LabVIEW C++ Simulink CATIA
+
+
+
+
+
+
+
+
+Good understanding of QA Principles, QA Process, Test Plans etc.
+Expertise in Testing Client/Server and Web Applications, Plugins/extensions.
+Can quickly understand Customer/Software Requirement Specifications.
+Well versed with SDLC, STLC and Defect Life Cycle.
+Expertise in identifying and preparing Test Scenarios, Test Cases, Test Data & RTM.
+Expertise in Test Case Execution.
+Expertise in Defect Reporting, Defect Tracking and Defect Management.
+Expertise in Functional Testing, Accessibility Testing , Re-Testing, Regression Testing, System Integration Testing , Beta Testing , Smoke Testing etc.
+Well versed with agile methodology.
+Have experience on Bug Tracking Tool JIRA and Azure DevOps.
+Having a good experience of Database Testing and SQL Queries.
+Having a good experience of API Testing using Postman.
+Having Basic Knowledge of Java , Selenium .
+
+
+
+
+Java · Functional Training · Non-functional Testing · Sanity Testing · Retesting · 
+Regression Testing · Black Box Testing · 
+Software Testing Life Cycle (STLC) · Defect Life Cycle · 
+Jira · automation testing · Database Testing · Manual Testing · Software Testing Life Cycle (STLC) · Smoke Testing
+
+
+
+
+
+
+
+
+
+
+
+
+API Testing:
+●	Hands on experience in API testing using Postman.
+●	Good knowledge on Http Methods.
+●	Better knowledge on Client-Server architecture.
+●	Validated different status codes like 200, 201, 400, 402, 403, 404, 415, 500 etc.
+●	Knowledge on different types of Parameters.
+●	Good Knowledge on Http Request and Http Response.
+●	Best Knowledge on JSON & XML.
+●	Basic understanding of Serialization and Deserialization.
+●	Good understanding on use of variables in an Environment.
+●	Experience in identifying JSON path.
+●	Very good experience in performing CRUD operations for various APIs.
+●	Better understanding of SOAP & REST web service testing.
+●	Good knowledge in supporting request Authorization like Basic Auth, Bearer Token, Oauth2.0 etc. using GITHUB API.
+●	Knowledge on writing API test cases.
+●	Good Knowledge on Newman.
